@@ -1,6 +1,6 @@
 //check whether two numbers equal or not
 import java.util.Scanner;
-class Java1
+class Equal_ornot
 {
     public static void main(String args[])
     {
