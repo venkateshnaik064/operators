@@ -1,0 +1,14 @@
+// method for increment and decrement
+public class Main {
+  static void myMethod() {
+     int x = 5;
+    ++x;
+    System.out.println("incremented"+x);
+    --x;
+    System.out.println("decremented"+x);
+  }
+
+  public static void main(String[] args) {
+    myMethod();
+  }
+}
